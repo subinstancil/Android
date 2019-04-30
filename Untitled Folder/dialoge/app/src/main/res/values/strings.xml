@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">dialoge</string>
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>other</item>
+
+    </string-array>
+
+    <string-array name="Course">
+        <item>cs</item>
+        <item>os</item>
+        <item>dm</item>
+        <item>coa</item>
+    </string-array>
+
+</resources>
